@@ -1,6 +1,6 @@
 # Spinsage Tech Docs
 
-This repository holds basic technical details about programming tools and languages used frequently.
+This repository holds basic technical details about programming tools and languages that are frequently used.
 
 ## Node
 
